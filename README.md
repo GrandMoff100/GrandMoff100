@@ -1,3 +1,16 @@
 # Hi there 👋
 
-Welcome to my README.
+## Project Highlights:
+
+
+## Specialties:
+
+- A
+- B
+- C
+
+## Hobbies:
+
+- A
+- B
+- C
