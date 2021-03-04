@@ -12,7 +12,7 @@
 <!--<a href="https://discord.gg/"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> -->
 
 
-<h4 align="center">Specializing in Web Developement, Automation</h4>
+<h4 align="center">Specializing in Web and Library Development</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
