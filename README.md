@@ -41,7 +41,6 @@
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<img src="https://komarev.com/ghpvc/?username=grandmoff100&label=Profile%20views&color=0e75b6&style=flat" alt="grandmoff100" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandmoff100" alt="grandmoff100" /></a></p>
@@ -69,3 +68,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grandmoff100&show_icons=true&locale=en" alt="grandmoff100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grandmoff100&" alt="grandmoff100" /></p>
+<img src="https://komarev.com/ghpvc/?username=grandmoff100&label=Profile%20views&color=0e75b6&style=flat" alt="grandmoff100" />
+
