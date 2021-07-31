@@ -45,8 +45,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandmoff100" alt="grandmoff100" /></a></p>
 
-- 💻 I’m currently working on [QR Code Analyzer](https://github.com/GrandMoff100/QRCodes)
-
 - 🌱 I’m currently learning about **Tensorflow, Flutter, Docker, and Julia**
 
 - 👯 I’m looking to collaborate on [HomeAssistantAPI](https://github.com/GrandMoff100/HomeAssistantAPI)
