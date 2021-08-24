@@ -54,7 +54,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=grandmoff100&label=Profile%20views&color=0e75b6&style=flat" alt="grandmoff100" /></p>
 
 <p align="center">
-- 🌱 I’m currently learning about **Tensorflow, Flutter, Docker, and Julia**
+  - 🌱 I’m currently learning about <strong>Tensorflow, Flutter, Docker, and Julia</strong>
 </p>
 <p align="center">
   - 👯 I’m looking to collaborate on <a href="https://github.com/GrandMoff100/HomeAssistantAPI">HomeAssistantAPI</a>
@@ -63,7 +63,7 @@
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/GrandMoff100?tab=repositories">Profile</a>
 </p>
 <p align="center">
-- 💬 Ask me about **Flask, and Discord.py**
+  - 💬 Ask me about <strong>Flask, and Discord.py</strong>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
