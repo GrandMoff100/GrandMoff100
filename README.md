@@ -75,3 +75,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=grandmoff100&show_icons=true&locale=en&layout=compact" alt="grandmoff100" />
 </p>
 
+
+<img src="https://readmeassets.grandmoff100.repl.co/asset/919191" alt="myasset">
