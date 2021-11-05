@@ -51,8 +51,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandmoff100" alt="grandmoff100" /></a>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=grandmoff100&label=Profile%20views&color=0e75b6&style=flat" alt="grandmoff100" /></p>
-
 <p align="center">
   - 🌱 I’m currently learning about <strong>Tensorflow, Flutter, Docker, and Julia</strong>
 </p>
