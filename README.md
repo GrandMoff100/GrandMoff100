@@ -52,16 +52,16 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grandmoff100" alt="grandmoff100" /></a>
 
 <p align="center">
-  - 🌱 I’m currently learning about <strong>Tensorflow, Flutter, Docker, and Julia</strong>
+  - 🌱 I’m currently learning about <strong>Asyncio Internals, Docker, Data Science, and ASTs.</strong>
 </p>
 <p align="center">
-  - 👯 I’m looking to collaborate on <a href="https://github.com/GrandMoff100/HomeAssistantAPI">HomeAssistantAPI</a>
+  - 👯 I’m looking to collaborate on <a href="https://github.com/GrandMoff100/HomeAssistantAPI">HomeAssistantAPI</a> and literally any other open source python-project. Hit me up on <a href="https://discord.com/users/Mr.%20Pixymon">Discord!</a>
 </p>
 <p align="center">
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/GrandMoff100?tab=repositories">Profile</a>
 </p>
 <p align="center">
-  - 💬 Ask me about <strong>Flask, and Discord.py</strong>
+  - 💬 Ask me about <strong>Pydantic, FastAPI, or Advanced Python.</strong>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
