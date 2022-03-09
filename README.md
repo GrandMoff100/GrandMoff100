@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nate!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Nate!</h1>
 <h3 align="center">An expert python web and library developer. <br>I love open source!!</h3>
 
 <p align="center">
