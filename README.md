@@ -62,6 +62,7 @@
 <a href="https://replit.com/@GrandMoff100">
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white"></a>
 <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
+<p align="center"><strong>I use Arch, btw</strong></p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=grandmoff100&" alt="grandmoff100" />
 </p>
