@@ -1,24 +1,24 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Nate!</h1>
-<h3 align="center">I love Data Science, Automation, Web-Development, and Open-Source!</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Nate!</h1>
+<h3 align="left">I love Machine Learning, Automation, Web-Development, and Open-Source!</h3>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrandMoff100&theme=github"
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/GrandMoff100">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://discord.com/users/Mr.%20Pixymon">
+<a href="https://discord.com/users/magicpanda23">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/Nlarsen23">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="mailto: minecraftcrusher100@gmail.com">
+<a href="mailto: nlarsen23.student@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="mailto: nlarsen23@protonmail.com">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -55,15 +55,16 @@
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
 <!-- <p align="center"><strong>I use Arch, btw</strong></p> -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=grandmoff100&" alt="grandmoff100" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrandMoff100&theme=github">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrandMoff100&theme=github&utcOffset=-5">
 </p>
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<p align="left">
+<!--     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=grandmoff100" alt="grandmoff100" />
-    </a>
+    </a> -->
 </p>
