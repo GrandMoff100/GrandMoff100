@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Nate!</h1>
+<h1 align="left">Hi, I'm Nate! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="left">I love Machine Learning, Automation, Web-Development, and Open-Source!</h3>
 
 <p align="center">
@@ -53,9 +53,6 @@
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
 <!-- <p align="center"><strong>I use Arch, btw</strong></p> -->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grandmoff100&" alt="grandmoff100" />
-</p>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrandMoff100&theme=github">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrandMoff100&theme=github&utcOffset=-5">
