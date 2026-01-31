@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Nate! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="left">I love Machine Learning, Automation, Web-Development, and Open-Source!</h3>
 
-<p align="center">
+<p align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrandMoff100&theme=github"
 </p>
 
